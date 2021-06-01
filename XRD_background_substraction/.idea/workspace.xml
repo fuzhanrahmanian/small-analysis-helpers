@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="477e9708-8739-45ae-b010-652b7f3c3a86" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hBNbdEyNxTsOjturo1qLAv7CxX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EMG" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="XRD_background_substraction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mcbl/MCBL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mcbl/MCBL/EMG.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.EMG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="477e9708-8739-45ae-b010-652b7f3c3a86" name="Default Changelist" comment="" />
+      <created>1599480597865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599480597865</updated>
+      <workItem from="1599480603959" duration="14057000" />
+      <workItem from="1600148006378" duration="3213000" />
+      <workItem from="1600518390125" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1599481033704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1599481033704" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1599767320187">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.1500.960@0.0.1500.960" timestamp="1599767320187" />
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1599484526951" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1599767320184">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.1500.960@0.0.1500.960" timestamp="1599767320182" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1599484526951" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1599767320179">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.1500.960@0.0.1500.960" timestamp="1599767320179" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1599484526950" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1599767320184">
+      <screen x="0" y="0" width="1500" height="960" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.1500.960@0.0.1500.960" timestamp="1599767320184" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1599484526951" />
+    <state x="782" y="343" key="SettingsEditor" timestamp="1599481040398">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="343" key="SettingsEditor/3840.0.2560.1400/0.0.2560.1400@0.0.2560.1400" timestamp="1599481040398" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/XRD_background_substraction$EMG.coverage" NAME="EMG Coverage Results" MODIFIED="1599484506829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mcbl/MCBL" />
+  </component>
+</project>
